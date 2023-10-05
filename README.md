@@ -5,7 +5,7 @@ A Service that responds to the registration emails with the confirmation mail to
 ## Used Technologies:
 1. Nest.js
 2. Javascript
-3. MongoDB
+3. PostgresSQL
 4. Rx.js
 5. NodeMailer.
 
